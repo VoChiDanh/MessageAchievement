@@ -1,0 +1,8 @@
+name: MessageAchievement
+version: '${project.version}'
+main: net.danh.MessageAchievement
+api-version: 1.14
+authors: [ VoChiDanh ]
+commands:
+  MA:
+    description: /MA <c/g> <Material> <Player> <Title>
